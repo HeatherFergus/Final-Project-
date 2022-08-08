@@ -12,3 +12,4 @@
 3. I sorted “Tree_cover_loss_ha” to summarize as SUM, as this will determine the total tree loss in that year. Also I sorted the “Year” to be descending by the “Tree_cover_loss_ha” as this will clearly display the highest amount first. 
 
 
+
