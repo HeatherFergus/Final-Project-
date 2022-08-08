@@ -97,3 +97,24 @@
 **_Answer: Over the tree cover lost from 2015 to 2021, Brazil emitted nearly 15 billion tons of greenhouse gases (Mg is a measurement of Megagrams, equivalent to a ton in gas) which accounted for 19.49% of the global emissions from tree loss, the United States emitted nearly 7 billion tons accounting for 8.90% of the global total, and Russia emitted just over 6 billion tons accounting for 8.07% of the global total._**
 
 
+## Story Summary 
+Since this analysis covers total tree cover loss, it accounts for all activities that result in tree loss. This could be conservation efforts, deforestation, human or not human caused. It is interesting how in the data, the United States is consistently in the top regions with the most loss in total tree cover, along with Brazil which is home to the Amazon rainforest, and Russia. In regards to percent change over each year, tree loss in the United States has stayed pretty consistent, yet it is losing about 2 million hectares of tree cover each year. For this story pitch, I would like to look deeper at what is the main cause of tree loss in the United States, if it is caused mainly by deforestation for agriculture for example. I would also like to compare this with the causes of tree loss in Russia, Brazil, and The Democratic Republic of Congo, all of which showed sharp increases in tree loss from 2015 to 2016 at 117%, 142%, and 49% respectively. These countries also showed high rates of tree cover loss per 1000 hectares lost in the years from 2015 to 2021. 
+
+A source that could help me in developing this story is another piece of data from Global Forest Watch, which documents the Global annual tree cover loss by Dominant drivers. This will help me determine in each year, what was documented as the main driver behind global tree loss, which I can compare with my current data analysis. I can also filter the data to specify the regions in which the dominant driver was determined, which will help me compare the causes of tree loss between the specific countries I am looking at. Another source that could help me is a study conducted in 2021 named “Climate impacts of U.S. forest loss span net warming to net cooling.” This research study will help me in my story as it will provide additional context to the relation of forest loss in the United States and what further implications it could have. By determining what is causing the forest loss in the United States and comparing that to Russia, Brazil, and The Democratic Republic of Congo, it is important to establish in the story the significance of the United States being one of the top countries in tree loss. The research study will help me understand these consequences, the importance of tree cover in the environment, and how this loss will impact the mitigation of and adaptation to climate change within the United States. 
+
+### Interviews
+
+1. Juliette Biao Koudenoukpo: *Director of the UN Forum on Forests Secretariat*
+  * Telephone: +1 212-963-3401 ; Fax: +1 917-367-3186 ; Email: unff@un.org
+  * Koudenoukpo will have knowledge about deforestation and causes of global forest loss, and has also worked as the UN Environment Programme Director. She could describe the relationship between society and the environment, particularly forests, and provide context on  the societal causes behind forest loss globally and ways in which to prevent this. 
+
+2. Frank Lands: *Regional Director at National Park Service* 
+  * Telephone: +1 415-623-2100 ; Address: 333 Bush Street, Suite 500 San Francisco, CA 94104-2828
+  * Lands will have knowledge on forestry and conservation within the United States and could provide context on large causes of forest loss in the U.S. Lands is regional director of multiple states, including California, and considering the recent wildfires in Yosemite this could provide the story with a perspective on recent forest loss in the US.
+
+
+## Data Visualization 
+
+
+
+ 
