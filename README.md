@@ -115,6 +115,8 @@ A source that could help me in developing this story is another piece of data fr
 
 ## Data Visualization 
 
+**_This is a bar chart detailing the top five regions with the highest number of hectares in forest loss, each year from 2015 to 2021._**
+
 
 
  
